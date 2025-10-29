@@ -2,10 +2,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Explorando vulnerabilidades e ajudando a tornar a web mais segura. 🎓 Estudando {Cibersegurança / Análise de Sistemas}
+- 🎓 Atuando como Pentester, Bug Bounty Hunter em HackerOne, Bugcrowd
+- 🌱 Aprendendo mais sobre técnicas de Red Team, Análise de Malware, Pentest em Aplicações Web
 
 ## Minhas Skills
 
